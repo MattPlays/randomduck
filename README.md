@@ -3,7 +3,7 @@
 
 # Installation
 ```bash
-npm i randomduck
+npm i @mattplays/randomduck
 ```
 
 # Usage
